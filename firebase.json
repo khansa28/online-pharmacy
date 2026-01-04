@@ -1,0 +1,24 @@
+{
+    "flutter":{
+        "platforms":{
+            "android":{
+                "default":{
+                    "projectId":"online-pharmacy-627ae",
+                    "appId":"1:107426988760:android:2bd8fdde6b7a919759cdad",
+                    "fileOutput":"android/app/google-services.json"
+                    }
+                },
+                "dart":{
+                    "lib/firebase_options.dart":{
+                        "projectId":"online-pharmacy-627ae",
+                        "configurations":{
+                            "android":"1:107426988760:android:2bd8fdde6b7a919759cdad",
+                            "ios":"1:107426988760:ios:52021700ea2f37d359cdad",
+                            "web":"1:107426988760:web:872dc4110b8da68b59cdad",
+                            "windows":"1:107426988760:web:1c4b3e9b81fcee1d59cdad"
+                            }
+                        }
+                    }
+                }
+            }
+        }

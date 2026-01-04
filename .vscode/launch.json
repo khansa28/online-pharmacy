@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter Web (Chrome)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug",
+      "args": [
+        "--dart-define=STRIPE_PUBLISHABLE_KEY=pk_test_51SiKQ4CQOIWnU6e5RDZSh2x3f0kkk7Ol3r08GBNQIfEuU6GEER3JRLOwZoqKDBUVEjpCJxedvoDyXE7gy80lXoJ100W73aOnla"
+      ]
+    }
+  ]
+}
