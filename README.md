@@ -1,16 +1,32 @@
-# online_pharmacy
+# Online Pharmacy Flutter App
 
-A new Flutter project.
+## 📖 Project Overview
+**Online Pharmacy** is a Flutter-based mobile application developed as a semester project.  
+It allows users to browse medicines, place orders, and manage their profiles in a simple and intuitive interface.  
+The app integrates Firebase for authentication and database management, making it a fully functional prototype of an e-pharmacy system.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication**: Sign up, log in, and manage profiles.
+- **Medicine Catalog**: Browse medicines by category and search for specific items.
+- **Order Management**: Add medicines to cart and place orders.
+- **Wallet & Payments**: View wallet balance, make payments, and track transactions.
+- **Admin Section**: Add products and manage orders (for admins only).
+- **Responsive UI**: Works on Android, iOS, Web, and Desktop (Windows, Linux, macOS).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗 Installation & Setup
+
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Android Studio / Xcode / VS Code](https://flutter.dev/docs/get-started/editor)
+- Firebase project (for authentication & database)
+- Optional: Stripe keys (if payments are enabled)
+
+### Steps
+1. **Clone the repository**
+```bash
+git clone https://github.com/khansa28/online-pharmacy.git
